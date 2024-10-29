@@ -8,8 +8,7 @@
 * UPDATE- Atualiza registro;
 * DELETE-Remover registro;
 * SELECT- Para consultar e visualizar dados;
-
-
+---------------------------------------------------
 * C- create
 * R- Read(insert) 
 * U- update
